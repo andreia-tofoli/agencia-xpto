@@ -1,3 +1,5 @@
+/* PAINEL */
+
 .conteudo-principal .paineis{
     display: flex;
     justify-content: center;
@@ -56,4 +58,43 @@
 .conteudo-principal .paineis .seta.btn-avancar{
     right:20px;
 }
+
+/* PAINEL */
+
+/* QUEM SOMOS */
+
+.quem-somos{
+    background-color: #2941AB; 
+}
+
+.quem-somos .conteudo{
+    display: flex;
+    align-items: center;
+    padding: 0 10%;
+}
+
+.quem-somos .conteudo .informacoes{
+    width: 40%;
+}
+
+.quem-somos .conteudo .informacoes .titulo{
+    font-size: 50px;
+    color: #1ED760;
+    margin-bottom: 20px;
+}
+
+.quem-somos .conteudo .informacoes .texto{
+    font-size: 20px;
+    line-height:1.5;
+    color: #fff;
+    font-weight: 400;
+}
+
+.quem-somos .conteudo .imagem{
+    width: 60%;
+} 
+/* QUEM SOMOS */
+
+
+
 
